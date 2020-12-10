@@ -1,5 +1,5 @@
-package webfiles
+package webserver
 
-func test(){
+func testfunc(){
 	
 }

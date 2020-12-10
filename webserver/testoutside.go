@@ -1,5 +1,5 @@
 package webserver
 
-func test2(){
-	
+func testfunc2(){
+
 }
